@@ -6258,11 +6258,11 @@ if(subscribezeeoneofc == 'qr_ovo13'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _1 Minggu_ 
 •> Harga : ${_minggu}\n\nCaranya :
-1. Buka Aplikasi OVO via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas OVO.
-4. dan Masukkan Nominal ${_minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_ovo_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_dana13'){
@@ -6272,11 +6272,11 @@ if(subscribezeeoneofc == 'qr_dana13'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _1 Minggu_ 
 •> Harga : ${_minggu}\n\nCaranya :
-1. Buka Aplikasi DANA via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas DANA.
-4. dan Masukkan Nominal ${_minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_dana_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_gopay13'){
@@ -6286,11 +6286,11 @@ if(subscribezeeoneofc == 'qr_gopay13'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _1 Minggu_ 
 •> Harga : ${_minggu}\n\nCaranya :
-1. Buka Aplikasi GOPAY via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas GOPAY.
-4. dan Masukkan Nominal ${_minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_gopay_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 
@@ -6301,11 +6301,11 @@ if(subscribezeeoneofc == 'qr_ovo14'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _2 Minggu_ 
 •> Harga : ${__minggu}\n\nCaranya :
-1. Buka Aplikasi OVO via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas OVO.
-4. dan Masukkan Nominal ${__minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_ovo_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_dana14'){
@@ -6315,11 +6315,11 @@ if(subscribezeeoneofc == 'qr_dana14'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _2 Minggu_ 
 •> Harga : ${__minggu}\n\nCaranya :
-1. Buka Aplikasi DANA via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas DANA.
-4. dan Masukkan Nominal ${__minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_dana_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_gopay14'){
@@ -6329,11 +6329,11 @@ if(subscribezeeoneofc == 'qr_gopay14'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _2 Minggu_ 
 •> Harga : ${__minggu}\n\nCaranya :
-1. Buka Aplikasi GOPAY via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas GOPAY.
-4. dan Masukkan Nominal ${__minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_gopay_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }
 
@@ -6344,11 +6344,11 @@ if(subscribezeeoneofc == 'qr_ovo15'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _3 Minggu_ 
 •> Harga : ${___minggu}\n\nCaranya :
-1. Buka Aplikasi OVO via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas OVO.
-4. dan Masukkan Nominal ${___minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_ovo_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_dana15'){
@@ -6358,11 +6358,11 @@ if(subscribezeeoneofc == 'qr_dana15'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _3 Minggu_ 
 •> Harga : ${___minggu}\n\nCaranya :
-1. Buka Aplikasi DANA via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas DANA.
-4. dan Masukkan Nominal ${___minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_dana_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true })
 }    
 if(subscribezeeoneofc == 'qr_gopay15'){
@@ -6372,11 +6372,11 @@ if(subscribezeeoneofc == 'qr_gopay15'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _3 Minggu_ 
 •> Harga : ${___minggu}\n\nCaranya :
-1. Buka Aplikasi GOPAY via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas GOPAY.
-4. dan Masukkan Nominal ${___minggu}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_gopay_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar, contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true })
 }
 
@@ -6388,11 +6388,11 @@ if(subscribezeeoneofc == 'qr_ovo16'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _1 Bulan_ 
 •> Harga : ${_bulan}\n\nCaranya :
-1. Buka Aplikasi OVO via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas OVO.
-4. dan Masukkan Nominal ${_bulan}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_ovo_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_dana16'){
@@ -6402,11 +6402,11 @@ if(subscribezeeoneofc == 'qr_dana16'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _1 Bulan_ 
 •> Harga : ${_bulan}\n\nCaranya :
-1. Buka Aplikasi DANA via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas DANA.
-4. dan Masukkan Nominal ${_bulan}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_dana_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar, contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true })
 }    
 if(subscribezeeoneofc == 'qr_gopay16'){
@@ -6416,11 +6416,11 @@ if(subscribezeeoneofc == 'qr_gopay16'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _1 Bulan_ 
 •> Harga : ${_bulan}\n\nCaranya :
-1. Buka Aplikasi GOPAY via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas GOPAY.
-4. dan Masukkan Nominal ${_bulan}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_gopay_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true })
 }
 
@@ -6431,11 +6431,11 @@ if(subscribezeeoneofc == 'qr_ovo17'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _permanen_
 •> Harga : ${_permanen}\n\nCaranya :
-1. Buka Aplikasi OVO via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas OVO.
-4. dan Masukkan Nominal ${_permanen}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_ovo_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar, contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_dana17'){
@@ -6445,11 +6445,11 @@ if(subscribezeeoneofc == 'qr_dana17'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _permanen_
 •> Harga : ${_permanen}\n\nCaranya :
-1. Buka Aplikasi DANA via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas DANA.
-4. dan Masukkan Nominal ${_permanen}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_dana_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar, contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_gopay17'){
@@ -6459,44 +6459,44 @@ if(subscribezeeoneofc == 'qr_gopay17'){
 •> Nomor : _@${sender.split("@")[0]}_
 •> Sewa : _permanen_ 
 •> Harga : ${_permanen}\n\nCaranya :
-1. Buka Aplikasi GOPAY via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas GOPAY.
-4. dan Masukkan Nominal ${_permanen}
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_gopay_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar, contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }
 if(subscribezeeoneofc == 'qr_ovo18'){
 	gambar_ovo = `${qr_code_ovo}`
 	let gambar_ovo_nya = await getBuffer(gambar_ovo)
 	ini_bayar = `${ucapannya2}\n\nCaranya :
-1. Buka Aplikasi OVO via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas OVO.
-4. dan Masukkan Nominal Jumlah Donasi.
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿.
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_ovo_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar, contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_dana18'){
 	gambar_dana = `${qr_code_dana}`
 	let gambar_dana_nya = await getBuffer(gambar_dana)
 	ini_bayar = `${ucapannya2}\n\nCaranya :
-1. Buka Aplikasi DANA via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas DANA.
-4. dan Masukkan Nominal Jumlah Donasi.
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿.
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_dana_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }    
 if(subscribezeeoneofc == 'qr_gopay18'){
 	gambar_gopay = `${qr_code_gopay}`
 	let gambar_gopay_nya = await getBuffer(gambar_gopay)
 	ini_bayar = `${ucapannya2}\n\nCaranya :
-1. Buka Aplikasi GOPAY via HP-mu.
-2. Pilih Pay / Bayar
-3. Scan Barcode diatas GOPAY.
-4. dan Masukkan Nominal Jumlah Donasi.
-5. Selesai`
+1. Buka Celana Anda.
+2. Buka Sempak Anda
+3. Coliin Kontol Anda.
+4. Dan Scan Skrg Vidio Bokep🗿.
+5. Tunggu Sampai Crot🗿`
 await alpha.sendMessage(from, gambar_gopay_nya, image, {thumbnail: Buffer.alloc(0), quoted: mek, caption: ini_bayar,contextInfo: {"mentionedJid": [sender],"forwardingScore":999,"isForwarded":true},sendEphemeral: true})
 }   
 if (budy.includes("eror",'error','Eror','Error')){
